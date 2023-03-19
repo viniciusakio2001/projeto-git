@@ -32,7 +32,7 @@ body {
     font-size: 12px;
     line-height: 20px;
     color: white;
-    background-image: url(./img/planodefundo.jpg);
+    background-image: url(planodefundo.jpg);
 }
 
 .meusprojetos001 {  
@@ -51,7 +51,7 @@ body {
         font-size: 12px;
         line-height: 20px;
         color: white;
-        background-image: url(./img/planoooooo.jpg);
+        background-image: url(planoooooo.jpg);
 }
 
 .meusprojetos_001 {
@@ -70,7 +70,7 @@ body {
     font-size: 12px;
     line-height: 20px;
     color: white;
-    background-image: url(./img/TI.jpg);
+    background-image: url(TI.jpg);
 }
 .menu {
     position: fixed;
